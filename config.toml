@@ -1,4 +1,4 @@
-baseURL = 'http://riton64/github.io/blog/'
+baseURL = 'https://riton64/github.io/blog/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'lugo'
